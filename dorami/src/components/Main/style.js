@@ -14,9 +14,6 @@ export const Banner = styled.div`
   align-items: center;
   background-color: #8EE559;
   margin-bottom: 20px;
-  color: var(--Black, #000);
-  font-size: 24px;
-  font-weight: 400;
   text-align: center;
 `;
 
